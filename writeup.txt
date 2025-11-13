@@ -1,0 +1,1 @@
+The largest challenge I faced during this assignment was getting the sample player to allow me to resume fast forwarding and rewinding. For some reason, I struggled with this for a long time. All my sounds were from freesound.org or provided by the course!
